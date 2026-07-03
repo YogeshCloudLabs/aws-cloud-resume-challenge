@@ -29,11 +29,14 @@ The website is hosted on Amazon S3 Static Website Hosting. A visitor counter is 
 ---
 # AWS Services Used
 
-# AWS Services Used
-
 - **AWS S3** – Hosts the frontend.
 - **AWS API Gateway** – Handles API requests.
 - **AWS Lambda** – Executes backend logic to retrieve and increment the visitor count.
 - **AWS DynamoDB** – Stores the visitor counter value.
 - **AWS IAM** – Manages permissions for Lambda.
 - **AWS CloudWatch** – Monitors logs.
+
+---
+# Application Overview
+
+![alt text](test.png)
