@@ -40,3 +40,6 @@ The website is hosted on Amazon S3 Static Website Hosting. A visitor counter is 
 # Application Overview
 
 ![alt text](test.png)
+![alt text](test-2.png)
+![alt text](test-3.png)
+![alt text](test-4.png)
