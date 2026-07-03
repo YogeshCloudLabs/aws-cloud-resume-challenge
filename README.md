@@ -5,6 +5,7 @@ A fully serverless cloud resume portfolio built on AWS. This project demonstrate
 # Live Demo
 **Website:** http://aws-cloud-resume-challenge-2026.s3-website-us-east-1.amazonaws.com
 
+---
 # Project Overview
 
 The AWS Cloud Resume Challenge is a hands-on cloud project designed to demonstrate practical AWS skills.
