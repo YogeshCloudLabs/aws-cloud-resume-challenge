@@ -13,6 +13,9 @@ The AWS Cloud Resume Challenge is a hands-on cloud project designed to demonstra
 The website is hosted on Amazon S3 Static Website Hosting. A visitor counter is implemented using Amazon API Gateway, AWS Lambda, and DynamoDB. Every page visit triggers an API request that increments the visitor count in DynamoDB and returns the updated value to the frontend. CloudWatch is used for monitoring and debugging Lambda execution.
 
 ---
+# Architecture
+![alt text](cloud-resume-challenge-architecturedrawio.png)
+---
 # Architecture Flow
 
 1. User opens the portfolio website.
